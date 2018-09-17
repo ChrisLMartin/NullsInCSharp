@@ -1,2 +1,2 @@
 # NullsInCSharp
-Pluralsigh coursework on Nulls in C#
+Pluralsight coursework on Nulls in C#
